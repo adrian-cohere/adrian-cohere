@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrian
+- 🧙‍♂️ I’m currently a PM at Cohere
 - 👀 I’m interested in Large Language Models Product Strategy
-- 🧙‍♂️ I’m currently a PM at Cohere 
 - 📫 You can reach me at adrian@cohere.com
 
 <!---
